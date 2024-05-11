@@ -17,7 +17,7 @@
 *ColorDevice: False
 *DefaultColorSpace: Gray
 *FileSystem: False
-*Throughput: "1"
+*Throughput: "14"
 *LandscapeOrientation: Plus90
 *TTRasterizer: Type42
 *cupsVersion: 2.2
